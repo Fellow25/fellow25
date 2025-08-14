@@ -25,8 +25,12 @@
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 - 💬 Discord : `fellow25`
 - 📧 Email : **fellow.staff@gmail.com**
 
 ---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fellow25" alt="Visitors">
+</p>
