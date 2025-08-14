@@ -33,7 +33,7 @@
 
 <p align="center">
   <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
+    href="https://github.com/fellow25/github-profile-trophy"
     title="repositório de troféus"
   >
     <img
