@@ -29,6 +29,7 @@
 - 💬 Discord : `fellow25`
 - 📧 Email : **fellow.staff@gmail.com**
 - ⚡ Creator of scripts for the FiveM community and also available to work on server projects
+- 🌐 Languages: Portuguese (native), French (native), English (basic)
 
 ---
 
